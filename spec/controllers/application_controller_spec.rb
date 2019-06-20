@@ -31,7 +31,7 @@ describe ApplicationController do
   #     @dog.age = 4
   #     expect(@dog.age).to eq(4)
   # #   end
-  # 
+  #
   # end
 
 
